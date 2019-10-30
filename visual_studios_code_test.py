@@ -1,5 +1,5 @@
 import requests
 
-r = requests.get("https://corems.com")
-print(r.status.code)
+r = requests.get("https://coreyms.com")
+print(r.status_code)
 print(r.ok)
